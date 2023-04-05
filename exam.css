@@ -1,0 +1,297 @@
+body{
+    background-color: antiquewhite;
+}
+
+.block{
+    width:1000px;
+    height: 600px;
+  
+    margin-left:250px;
+    margin-top:20px;
+}
+#img1{
+    width: 1000px;
+    height: 600px;
+}
+.block1{
+    width:740px;
+    height:340px;
+
+    margin-left:140px;
+    margin-top:-480px;
+    background-color: rgb(165, 81, 42);
+  
+}
+
+#text1{
+    font-size:20px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    margin-top:10px;
+}
+
+#text2{
+    font-size:50px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    margin-top:40px;
+    color:white;
+}
+
+#text3{
+    font-size:20px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    margin-top:150px;
+}
+.block3{
+    width:1000px;
+    height:600px;
+
+    margin-top:30px;
+    margin-left:250px;
+}
+
+#img2{
+    width:500px;
+    height:600px;
+}
+
+#text4{
+    margin-left:600px;
+    margin-top:-500px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#text5{
+    margin-left:600px;
+    font-size:28px;
+    margin-left:650px;
+    margin-top:-55px;
+  
+}
+
+#text6{
+margin-left:600px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#text7{
+    margin-left:650px;
+    font-size:28px;
+    margin-top:-55px;
+}
+
+#text8{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:50px;
+    margin-top:100px;
+    margin-left:80px;
+}
+.block4{
+    width:1000px;
+    margin-left:250px;
+    height:600px;
+    margin-top:100px;
+
+}
+
+.bl1{
+    width:400px;
+    height:600px;
+
+}
+
+#text9{
+    margin-left:450px;
+    margin-top: -500px;
+    font-size:40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#text10{
+    margin-left:450px;
+    
+    font-size:40px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(165, 77, 42);
+}
+
+.block5{
+    width:1000px;
+    height:600px;
+margin-top: 100px;
+    margin-left:250px;
+}
+
+.bk1{
+    width:600px;
+    height:600px;
+
+}
+
+#text11{
+    margin-left:800px;
+    margin-top:-550px;
+font-size:40px;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+#text12{
+    margin-left:620px;
+    margin-top:100px;
+font-size:30px;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+.block6{
+    width:1000px;
+    height:600px;
+
+    margin-left:250px;
+    font-size: 25px;
+    text-align: center;
+}
+    #text13{
+        font-size:40px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-align:center;
+        margin-top:100px;
+    }
+
+    .blk1{
+        width:300px;
+        height:400px;
+      
+
+    }
+
+    .blk2{
+        width:300px;
+        height:400px;
+      
+        margin-left:320px;
+        margin-top:-403px;
+
+    }
+
+    .blk3{
+        width:300px;
+        height:400px;
+       
+        margin-left:650px;
+        margin-top:-405px;
+    }
+.block7{
+    width:1000px;
+    height:600px;
+   margin-top:-150px;
+    margin-left:250px;
+}
+
+.bc1{
+    width:1000px;
+    height:400px;
+
+    background-color:rgb(131, 65, 37);
+}
+
+#txt1{
+    color:white;
+    font-size:40px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+margin-left:350px;
+margin-top:150px;
+
+}
+
+#txt2{
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+   margin-left:400px;
+}
+
+.block8{
+    width:1000px;
+    height:600px;
+    margin-top:200px;
+    margin-left:250px;
+}
+
+#txt3{
+    color:rgb(150, 57, 36);
+    font-size:50px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#bk1{
+    width:300px;
+    height:400px;
+   
+}
+
+#txt4{
+    font-size:20px;
+ margin-left:50px;
+}
+
+#txt5{
+    font-size:20px;
+    margin-left:50px;
+}
+
+#bk2{
+    width:300px;
+    height:400px;
+  
+    margin-left:350px;
+    margin-top:-400px;
+}
+
+#bk3{
+    width:300px;
+    height:400px;
+
+    margin-left:680px;
+    margin-top:-390px;
+}
+
+#img3{
+    width:400px;
+    height:600px;
+}
+#img4{
+    width:600px;
+    height:600px;
+}
+
+#img5{
+    width:80px;
+    height:80px;
+}
+
+#img6{
+    width:80px;
+    height:80px;
+}
+
+#img7{
+    width:80px;
+    height:80px;
+}
+
+#img8{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    margin-top:-10px;
+   
+}
+
+#photo{
+    width:300px;
+    height:300px;
+    margin-top:-200px;
+    margin-left:50px;
+}
